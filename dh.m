@@ -1,3 +1,6 @@
+% Simple-DH-Simulator 2-1-2020
+% Coding by Patorn-J
+
 clc;
 clear ;
 
