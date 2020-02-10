@@ -1,5 +1,5 @@
 # 3 DOF Manipulator Kinematics Simulator
-A simple forward and inverse kinematics 3DOF manipulator simulator using Denavit-Hartenburg Method,
+A simple forward and inverse kinematics 3DOF manipulator simulator using Denavit-Hartenburg and geometric Method.
 Helping you to estimate end effector by looking at virtual 3d graphic.
 - example result
   - ![image](https://user-images.githubusercontent.com/56642026/74030122-db5c9080-49e0-11ea-9351-fbcac3835e19.png)
